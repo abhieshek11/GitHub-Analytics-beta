@@ -9,7 +9,7 @@
 
 **A beautiful, interactive web application that displays comprehensive GitHub user analytics with stunning visualizations, smooth animations, and professional developer contact features.**
 
-[🌟 Live Demo]([https://github-analytics.netlify.app](https://github-analytics.netlify.app)) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start)
+Live Demo: (https://github-analytics-beta.netlify.app/)
 
 </div>
 
