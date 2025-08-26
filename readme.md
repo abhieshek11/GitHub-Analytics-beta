@@ -9,7 +9,7 @@
 
 **A beautiful, interactive web application that displays comprehensive GitHub user analytics with stunning visualizations, smooth animations, and professional developer contact features.**
 
-[🌟 Live Demo](https://github-analytics.netlify.app) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start)
+[🌟 Live Demo]([https://github-analytics.netlify.app](https://github-analytics.netlify.app)) • [📖 Documentation](#features) • [🚀 Quick Start](#quick-start)
 
 </div>
 
@@ -324,9 +324,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Need help? We're here for you!
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/github-analytics/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/github-analytics/discussions)
+**GitHub: https://github.com/abhieshek11
+
+**LinkedIn: https://www.linkedin.com/in/abhieshek11/
+
+**Instagram: https://www.instagram.com/abhisk02/
+
+**Email: abhieshek11@gmail.com
 
 ---
 
